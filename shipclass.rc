@@ -9,22 +9,22 @@
 STRINGTABLE
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 {
-  0, "Gunboat"
-  1, "Cruiser"
-  2, "Destroyer"
-  3, "Battleship"
-  4, "Capital"
-  5, "Transport"
-  6, "Large Transport"
-  7, "Train"
-  8, "Large Train"
-  9, ""
- 10, ""
- 11, ""
- 12, ""
- 13, ""
- 14, ""
- 15, ""
+  0, "Bomber"
+  1, "Super Heavy Fighter"
+  2, "Transport"
+  3, "Train"
+  4, "Heavy Transport"
+  5, "Super Train"
+  6, "Liner"
+  7, "Gunboat"
+  8, "Frigate"
+  9, "Cruiser"
+ 10, "Heavy Miner"
+ 11, "Battlecruiser"
+ 12, "Battleship"
+ 13, "Carrier"
+ 14, "Dreadnought"
+ 15, "Repair Ship"
 }
 
 
